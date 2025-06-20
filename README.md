@@ -11,5 +11,5 @@ Jupyter Notebook
 - Simulate asset allocation
 - Visualise efficient frontier
 - Calculatue max Sharpe and min variance portfolios
-## full implementation coming soon 
+## Full implementation coming soon 
  
